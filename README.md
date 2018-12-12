@@ -1,2 +1,2 @@
 # hello-world
-This is just s learning purpose of Github.
+This is just a learning purpose of Github.
